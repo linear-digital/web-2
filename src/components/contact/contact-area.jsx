@@ -24,7 +24,7 @@ const ContactArea = () => {
                 <div className="tp-contact-info">
                   <h4 className="contact-title">Address line</h4>
                   <span><a href="#" target="blank">
-                  House of Soyati, Rathirampur, Khalishpur-3842, 
+                  House of Soyati, Rathirampur, Khalispur-3842, 
                   <br />
                   Begumgonj, Noakhali
                     </a></span>

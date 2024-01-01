@@ -60,7 +60,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
                 <i className="fas fa-star"></i> <a href="https://goo.gl/maps/abHegV4AoiJA6Syd8" rel="noreferrer" target="_blank">
                   House of Soyati, Rathirampur, 
                   <br />
-                  Khalishpur-3842, Begumgonj, Noakhali
+                  Khalispur-3842, Begumgonj, Noakhali
                 </a>
               </li>
               <li><i className="fas fa-star"></i><a href="tel:+8801610139775">+8801610139775</a></li>
