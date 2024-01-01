@@ -18,7 +18,7 @@ const services_data = [
     delay: '1s',
     img: '/assets/img/service/service-2.png',
     title: 'Web Development',
-    text_1: 'We specialize in creating tailored, responsive websites that not only showcase your brand but also offer seamless user experiences.',
+    text_1: 'We specialize in creating tailored, responsive websites that not only showcase your brand but also offer seamless user experiences',
     text_2: 'From e-commerce platforms to interactive web applications, our skilled developers leverage cutting-edge technologies to bring your vision to life. We prioritize functionality.',
     home: true,
     service_p_2: true,
